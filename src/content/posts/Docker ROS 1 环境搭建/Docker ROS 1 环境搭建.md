@@ -190,6 +190,6 @@ ForwardX11Trusted yes
 
 之后就可以在 VS Code 里 SSH 到 Linux 端，并在终端（terminal）运行 `./start.sh`
 
-## 参考资料：
+## 参考资料
 1. [Docker系列（五）：ROS容器化三叉戟 --- 从X11、Wayland到DockerFile实战全解析](https://blog.csdn.net/weixin_43731521/article/details/148261060)
 2. [Docker容器应用可视化-X11方式](https://blog.csdn.net/weixin_56291477/article/details/131857032)
