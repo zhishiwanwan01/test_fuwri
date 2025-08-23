@@ -68,18 +68,14 @@ docker compose up -d --build learn-docker
 # 进入容器
 docker exec -it learn-docker bash
 ```
-### 2、启动命令
+### 2、启动步骤
 
-在宿主机执行：
+在 Linux 终端执行：
 
 ```bash
 chmod +x start.sh # 给 start.sh 增加执行权限
 ./start.sh
-```
-
-进入容器后运行：
-
-```bash
+# 进入容器后执行
 # '&'的作用: 将命令放到后台运行，终端可以继续输入命令
 xeyes & 
 gedit & 
@@ -123,7 +119,7 @@ docker exec -it your-service-name bash
 ```
 ### 3、启动步骤
 
-在 Linux 终端（terminal）：
+在 Linux 终端执行：
 
 ```bash
 ./start.sh
