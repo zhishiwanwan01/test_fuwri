@@ -1,7 +1,7 @@
 # About
 这里是战斗鸡的技术笔记小站~
 
-::github{repo="zhishiwanwan01"}
+::github{repo="zhishiwanwan01/blog_leoairbt"}
 
 <!-- > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
