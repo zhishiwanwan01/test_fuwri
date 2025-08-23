@@ -8,11 +8,6 @@ category: ''
 draft: false 
 lang: ''
 ---
-
-  
-
-# Docker ROS 1 环境搭建攻略：实现 RViz 在 Linux 宿主机及 Windows 的显示
-
 ## 零、背景介绍
 工作环境：Windows + VS Code 通过 SSH 连接 Linux 主机（Ubuntu 24），在 Linux 上的 Docker 容器内运行 ROS 仿真。
 
