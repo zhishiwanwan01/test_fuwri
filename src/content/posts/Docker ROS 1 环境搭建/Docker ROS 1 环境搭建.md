@@ -88,7 +88,7 @@ gedit &
 ### 1、转发设置
 Windows 上安装 **VcXsrv**，打开 **XLaunch**，设置一路默认 → 最后勾选 _Disable access control_
 
-[XLaunch 设置](./Pasted%20image%2020250823113002.png)
+![XLaunch 设置](./Pasted%20image%2020250823113002.png)
 
 ### 2、Docker 文件
 
