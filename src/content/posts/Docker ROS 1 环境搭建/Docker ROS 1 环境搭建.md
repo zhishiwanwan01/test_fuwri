@@ -68,7 +68,7 @@ docker compose up -d --build learn-docker
 # 进入容器
 docker exec -it learn-docker bash
 ```
-### 2、启动前设置
+### 2、启动命令
 
 在宿主机执行：
 
@@ -90,9 +90,10 @@ gedit &
 ## 二、Windows SSH 到 Linux 宿主机显示 `xeyes`、`gedit`
 
 ### 1、转发设置
-- Windows 上安装 **VcXsrv**，打开 **XLaunch**，设置一路默认 → 最后勾选 _Disable access control_
+Windows 上安装 **VcXsrv**，打开 **XLaunch**，设置一路默认 → 最后勾选 _Disable access control_
 
-[XLaunch 设置](Pasted image 20250823113002.png)
+[XLaunch 设置](./Pasted%20image%2020250823113002.png)
+
 ### 2、Docker 文件
 
 **Dockerfile**保持不变
