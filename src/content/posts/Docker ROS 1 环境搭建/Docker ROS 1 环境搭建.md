@@ -4,7 +4,7 @@ published: 2025-08-23
 description: ''
 image: ''
 tags: [X11, docker, ROS, RViz, ROS1, Windows, SSH, VcXsrv]
-category: ''
+category: 'Docker 学习笔记'
 draft: false 
 lang: ''
 ---
