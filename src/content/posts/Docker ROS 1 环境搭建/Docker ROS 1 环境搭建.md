@@ -175,17 +175,17 @@ rviz &
 
 SSH 连接 Linux 时添加 `-Y` 参数：
 
-  ```bash
-  ssh -Y user@linux-host
-  ```
+```bash
+ssh -Y user@linux-host
+```
 
 ### 2、VS Code
 
 在 `~/.ssh/config` 增加：
 
-  ```
-  ForwardX11 yes
-  ForwardX11Trusted yes
-  ```
+```
+ForwardX11 yes
+ForwardX11Trusted yes
+```
 
 之后就可以在 VS Code 里 SSH 到 Linux 端，并在终端（terminal）运行 `./start.sh`
